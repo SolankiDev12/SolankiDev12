@@ -145,7 +145,9 @@ const devSolanki = {
 
 <div align="center">
 
-[![Visitor Count](https://visitcount.itsvg.in/api?id=SolankiDev12&label=Profile%20Views&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
+![Profile views](https://komarev.com/ghpvc/?username=SolankiDev12&label=Profile%20views&color=0e75b6&style=flat)
+
+
 
 **Thanks for stopping by! Feel free to explore my repositories and don't forget to star ⭐ the ones you find interesting!**
 
