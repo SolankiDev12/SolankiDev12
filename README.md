@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img width="75%" src="banner.png" alt="Dev Solanki Terminal Banner"/>
+<img width="75%" src="poster.png" alt="Dev Solanki Terminal Banner"/>
 
 </div>
 
